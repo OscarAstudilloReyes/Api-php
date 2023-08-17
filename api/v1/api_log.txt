@@ -1,0 +1,2 @@
+[2023-08-16 22:42:35] solicitud API - Método: GET - IP: ::1
+Recurso no encontrado
